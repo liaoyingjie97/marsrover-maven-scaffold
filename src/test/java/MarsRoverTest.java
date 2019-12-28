@@ -26,7 +26,7 @@ public class MarsRoverTest {
     }
 
     @Test
-    public void name(){
+    public void name() {
         Rover rover = new Rover();
         RoverController roverController = new RoverController(rover);
         String mission = "10,10,5,5,E,M,L,M,R";

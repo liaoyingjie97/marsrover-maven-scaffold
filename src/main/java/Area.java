@@ -7,7 +7,7 @@ public class Area {
         this.y = y;
     }
 
-    public Area(){
+    public Area() {
 
     }
 
