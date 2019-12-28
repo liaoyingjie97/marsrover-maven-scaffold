@@ -3,7 +3,7 @@ public class Rover {
     int y;
     char towards;
     Area area;
-    boolean isDestory = false;
+    boolean isDestory = false;   //着陆点和移动是否超出范围的判断标志
 
 
     public Rover() {
